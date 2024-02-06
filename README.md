@@ -1,9 +1,9 @@
 # Alex' commit message convention
 
-## Type
-***The type of change, which is applied through the commit***
+## Type of change / Prefix
+***The type of change, which is applied by the commit, the emoji is the first part of the commit message.***
 
-🛠 - A change to do with configuration files
+🛠 - A change to do with configuration files or nonspecific code changes
 
 ⚠ - A change, which is unfinished or breaks the codebase (***usually only pushed to the "dev" branch***)
 
