@@ -22,7 +22,7 @@
 🎉 - Something to celebrate (e.g. A new release of the project, the first x of the project etc.)
 
 ### Custom Types
-These is used for libraries, whose icon closely resembles an emoji (e.g. 🪐 for the popular Apollo GraphQL server library).
+Custom emojis can be used for libraries, whose icon closely resembles an emoji (e.g. 🪐 for the popular Apollo GraphQL server library).
 
 ## Message
 Write your commit message in the imperative: "Fix bug" and not "Fixed
