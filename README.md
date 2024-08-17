@@ -1,7 +1,7 @@
 # Alex' commit message convention
 
 ## Type of change / Prefix
-***The type of change, which is applied by the commit, the emoji is the first part of the commit message.***
+***The type of change, which is applied by the commit. The emoji is the first part of the commit message.***
 
 🛠 - A change to do with configuration files or nonspecific code changes
 
