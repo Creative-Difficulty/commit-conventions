@@ -1,4 +1,5 @@
 # Alex' commit message convention
+***UPDATE 28.1.2025 (1/28/2025): I have stopped using this convention for any new repositories and will start phasing it out for existing ones, instead following the ['conventional commits' convention](https://www.conventionalcommits.org/en/v1.0.0/)***
 
 ## Type of change / Prefix
 ***The type of change, which is applied by the commit. The emoji is the first part of the commit message.***
